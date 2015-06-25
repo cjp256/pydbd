@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+import openxt.dbtools.db_rm
+
+openxt.dbtools.db_rm.main()
